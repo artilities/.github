@@ -1,6 +1,6 @@
 ### <p align="center">Thank you for checking out Artilities organisation page! Here we share with you open-source projects made by the members of Artilities team! </p>
 ### Q: What do we do? 
-> A: At Artilities we bring you free and robust tools that can help deal with art-block and stimulate self-development as an artist!
+> A: At Artilities we bring you free and robust tools that can help deal with art-block and stimulate self-development as an artist! So all in all, we are a group that helps artists at any stage, no matter if you're a beginner or an expert on art!
 
 ### Q: Is there a way to join your team?
 > A: Yes. You can find a link to an application on our Discord server: https://discord.gg/7fsbVheYYt
