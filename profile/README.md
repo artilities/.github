@@ -6,7 +6,7 @@
 > A: Yes. You can find a link to an application on our Discord server: https://discord.gg/7fsbVheYYt
 
 ### Q: Is there a way to contact developers directly?
-> A: Yes. We review your inqueries at `artilities@protonmail.com`
+> A: Yes. We review your inqueries at `artilities@yandex.ru`
 <p align="center">
   <img align="center" src="https://user-images.githubusercontent.com/55660526/165137835-d2559189-2aa8-4962-a5c0-691ba91e7469.png">
 </p>
